@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-pinecone
+langgraph
+streamlit
+python-dotenv
+tiktoken
